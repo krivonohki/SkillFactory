@@ -1,0 +1,15 @@
+html, body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: background: #FFFFFF;;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    font-size: 18px;
+    line-height: 28px;
+}
